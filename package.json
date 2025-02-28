@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "lisk-sdk": "^5.2.0"
+    "ipfs-http-client": "^60.0.1",
+    "lisk-sdk": "^6.0.2"
   }
 }
